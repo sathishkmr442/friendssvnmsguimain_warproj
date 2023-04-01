@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello from friendsSV WAR project- Testing Jenkins Pipleline - Till Deployment.. Jenkins testing V3.0 -- This is the version 3 file </h2>
+<h2>Hello from friendsSV WAR project- using deploy to container plugin with auto deploy on tomcat.. and .. auto trigger the pipeline with webhook... V4.0 </h2>
 </body>
 </html>
